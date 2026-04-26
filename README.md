@@ -94,11 +94,11 @@ Python, Pandas, NumPy, Matplotlib, Scikit-learn
 ## 📫 Connect With Me
 
 💼 LinkedIn
-[LinkedIn](https://www.linkedin.com/in/abdelrahman-dardir-335b05329)
+[LinkedIn](https://www.linkedin.com/in/abdelrahman-dardir-525022405/)
 
 📧 Email
 [abdelrahmandardir40@gmail.com](mailto:abdelrahmandardir40@gmail.com)
 ## 📄 Resume
 [![📄 Download My CV](https://img.shields.io/badge/Download-My%20CV-orange?style=for-the-badge&logo=adobeacrobat&logoColor=white)](https://raw.githubusercontent.com/abdelrahman1522005/let-me-interduce-myself/main/abdelrahman_mohammed_hasan_abdelhamid_Cv.pdf)
-</a>>
+</a>
 ## ⭐ *Always learning and building new data projects.*
